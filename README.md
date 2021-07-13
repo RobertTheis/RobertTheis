@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning new stuff, especially about AI technology, social networking, 
       the effects of technology and software in businesses and making the world a better place. 
-      Got into informatics as a kid, never pursued it, and have a lot to learn so... Bring it on! :D
+      Got into informatics as a kid, never pursued it until now, and have a lot to learn so... Bring it on! :D
       
 - 🌱 I’m currently studying business informatics in Bamberg, Germany. That's fun! Also learning how to do this thing called "coding" in several languages. 
  
